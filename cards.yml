@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to microservices cards related prod APIs "
+  contactDetails:
+    name: "Khaled - Software Engineer"
+    email: "khaledsamir2212@gmail.com"
+  onCallSupport:
+    - +20 1067655478
